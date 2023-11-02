@@ -1,2 +1,3 @@
 # ChaIR
-Exploring the Potential of Channel Interactions for Image Restoration
+If you need the code and pre-trained models, please let me know.
+I will release them ASAP.
