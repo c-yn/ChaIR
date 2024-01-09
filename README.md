@@ -2,7 +2,7 @@
 Yuning Cui, Alois Knoll
 
 [![](https://img.shields.io/badge/Paper-blue.svg)](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009061)
-
+(Training details can be found in the supplementary material, which can also be downloaded from this link.)
 
 >Image restoration aims to reconstruct a clear image from a degraded observation. Convolutional neural networks have achieved promising performance on this task. The usage of Transformer has recently made significant advancements in state-of-the-art performance by modeling long-range dependencies. However, these deep architectures primarily concentrate on enhancing representation learning for the spatial dimension, neglecting the significance of channel interactions. In this paper, we explore the potential of channel interactions for restoring images through our proposal of a dual-domain channel attention mechanism. To be specific, channel attention in the spatial domain allows each channel to amass valuable signals from adjacent channels under the guidance of learned dynamic weights. In order to effectively exploit the significant difference in infrequency between degraded and clean image pairs, we develop the implicit frequency domain channel attention to facilitate the integration of information from different frequencies. Extensive experiments demonstrate that the proposed network, dubbed ChaIR, achieves state-of-the-art performance on 13 benchmark datasets for five image restoration tasks, including image dehazing, image motion/defocus deblurring, image desnowing, and image deraining.
 
